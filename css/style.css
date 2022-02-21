@@ -10,6 +10,7 @@ body{
 
 h3{
     margin: 10px 0;
+    width: 100%;
 }
 
 .bg-blue{
@@ -18,7 +19,7 @@ h3{
     align-items: center;
     justify-content: center;
     color: white;
-    padding: 0 5px;
+    padding: 8px;
     background-color: rgb(36, 115, 194);
     border: 1px solid white;
 }
@@ -27,7 +28,7 @@ h3{
     display: flex;
     align-items: center;
     justify-content: center;
-    line-height: 30px;
+    height: 100%;
     color: rgb(36, 115, 194);
     background-color: greenyellow;
     border: 1px solid rgb(36, 115, 194);
@@ -36,3 +37,5 @@ h3{
 .margin-top{
     margin-top: 20px;
 }
+
+

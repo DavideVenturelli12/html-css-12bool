@@ -75,7 +75,7 @@
     max-width: calc((100% / 12) * 12);
 }
 
-/* OFFSET */
+/* OFFSET left */
 
 .col-offset-1{
     margin-left: calc((100% / 12) * 1);
