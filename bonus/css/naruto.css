@@ -1,0 +1,29 @@
+body{
+    padding: 100px 0;
+}
+
+
+.bg-black{
+    background-color: black;
+    height: 40px;
+}
+
+.bg-orange{
+    background-color: rgb(241, 97, 13);
+    height: 40px;
+}
+
+.bg-yellow{
+    background-color: rgb(247, 214, 40);
+    height: 40px;
+}
+
+.bg-grey{
+    background-color: rgb(79, 79, 79);
+    height: 40px;
+}
+
+.bg-pink{
+    background-color: rgb(245, 218, 177);
+    height: 40px;
+}
