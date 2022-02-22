@@ -15,6 +15,42 @@
     flex-wrap: wrap;
 }
 
+.row.reverse{
+    flex-direction: row-reverse;
+}
+
+.row.align-left{
+    justify-content: left;
+}
+
+.row.align-right{
+    justify-content: right;
+}
+
+.row.align-center{
+    justify-content: center;
+}
+
+.row.align-top{
+    align-items: flex-start;
+}
+
+.row.align-bottom{
+    align-items: flex-end;
+}
+
+.row.align-center{
+    align-items: center;
+}
+
+.row.space-around{
+    justify-content: space-around;
+}
+
+.row.space-between{
+    justify-content: space-between;
+}
+
 .col-1{
     flex-basis: calc((100% / 12) * 1);
     max-width: calc((100% / 12) * 1);

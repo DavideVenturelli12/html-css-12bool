@@ -10,25 +10,35 @@ body{
 
 h3{
     margin: 10px 0;
-    width: 100%;
+}
+
+h4{
+    font-size: 14px;
 }
 
 .bg-blue{
     height: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
+    line-height: 35px;
     color: white;
-    padding: 8px;
     background-color: rgb(36, 115, 194);
     border: 1px solid white;
+    padding: 7.5px;
+}
+
+.bg-blue-25{
+    height: 25px;
+    text-align: center;
+    line-height: 25px;
+    color: white;
+    background-color: rgb(36, 115, 194);
+    border: 1px solid white;
+    
 }
 
 .bg-green{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
+    line-height: 35px;
+    height: 35px;
     color: rgb(36, 115, 194);
     background-color: greenyellow;
     border: 1px solid rgb(36, 115, 194);
